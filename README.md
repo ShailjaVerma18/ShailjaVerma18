@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Shailja Verma  
 
-<!--
-**ShailjaVerma18/ShailjaVerma18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Aspiring **Data Analyst** passionate about transforming raw data into actionable insights.  
+📊 Skilled in **Python, SQL, Power BI, and Machine Learning** with hands-on experience in real-world projects.  
+📈 Currently exploring **Big Data Tools & Advanced Analytics** to strengthen my expertise.  
+💼 Goal: Secure a **Data Analyst role by 2025** and contribute to impactful, data-driven decisions.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack  
+
+- **Programming Languages:** Python, SQL 
+- **Data Analysis & Visualization:** Pandas, NumPy, Matplotlib, Seaborn, Power BI, Tableau  
+- **Machine Learning & AI:** Scikit-learn, TensorFlow, Keras, NLTK  
+- **Database:** MySQL  
+- **Version Control & Collaboration:** Git, GitHub  
+
+---
+
+## 📌 Featured Projects  
+
+- **[Learning Management System – Nalanda Open University](https://github.com/ShailjaVerma18/Learning-Management-System-Nalanda-Open-University)**  
+  📚 A full-stack LMS built with Django & Python, featuring role-based access, course/content management, and assignment submissions.  
+
+- **[Machine Learning Projects](https://github.com/ShailjaVerma18/Machine-Learning-Projects)**  
+  🤖 A collection of ML/DL projects including Sentiment Analysis, OCR with Tesseract, and Predictive Analytics.  
+
+---  
+
+## 📫 Connect with Me  
+
+- 📍 **Location:** Lucknow, India  
+- ✉️ **Email:** vermashailja018@gmail.com  
+- 💼 **LinkedIn:** [linkedin.com/in/shailjaverma18](https://linkedin.com/in/shailjaverma18)  
+- 🐙 **GitHub:** [github.com/ShailjaVerma18](https://github.com/ShailjaVerma18)  
+
+---
+
