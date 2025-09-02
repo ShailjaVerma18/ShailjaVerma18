@@ -1,6 +1,9 @@
 # Hi, I'm Shailja Verma  
+Aspiring Data Analyst | Python | SQL | Machine Learning | Power BI | Tableau
 
-🎯 Aspiring **Data Analyst** passionate about transforming raw data into actionable insights.  
+"Amateurs sit and wait for inspiration, the rest of us just get up and go to work." — Stephen King
+
+🎯 Passionate about transforming **raw data into actionable insights**.  
 📊 Skilled in **Python, SQL, Power BI, and Machine Learning** with hands-on experience in real-world projects.  
 📈 Currently exploring **Big Data Tools & Advanced Analytics** to strengthen my expertise.  
 💼 Goal: Secure a **Data Analyst role by 2025** and contribute to impactful, data-driven decisions.  
