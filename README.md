@@ -1,7 +1,7 @@
 # Hi, I'm Shailja Verma  
-Aspiring Data Analyst | Python | SQL | Machine Learning | Power BI | Tableau
+**Aspiring Data Analyst | Python | SQL | Machine Learning | Power BI | Tableau**
 
-"Amateurs sit and wait for inspiration, the rest of us just get up and go to work." — Stephen King
+*"Amateurs sit and wait for inspiration, the rest of us just get up and go to work."* — Stephen King
 
 🎯 Passionate about transforming **raw data into actionable insights**.  
 📊 Skilled in **Python, SQL, Power BI, and Machine Learning** with hands-on experience in real-world projects.  
