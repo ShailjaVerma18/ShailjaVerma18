@@ -21,7 +21,7 @@
 
 ## 📌 Featured Projects  
 
-- **[Learning Management System – Nalanda Open University]https://github.com/ShailjaVerma18/Learning-Management-System-Nalanda-Open-University-**  
+- **[Learning Management System – Nalanda Open University](https://github.com/ShailjaVerma18/Learning-Management-System-Nalanda-Open-University-)**  
   📚 A full-stack LMS built with Django & Python, featuring role-based access, course/content management, and assignment submissions.  
 
 - **[Machine Learning Projects](https://github.com/ShailjaVerma18/Machine-Learning-Projects)**  
