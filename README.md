@@ -6,7 +6,6 @@
 🎯 Passionate about transforming **raw data into actionable insights**.  
 📊 Skilled in **Python, SQL, Power BI, and Machine Learning** with hands-on experience in real-world projects.  
 📈 Currently exploring **Big Data Tools & Advanced Analytics** to strengthen my expertise.  
-💼 Goal: Secure a **Data Analyst role by 2025** and contribute to impactful, data-driven decisions.  
 
 ---
 
