@@ -31,7 +31,7 @@
 
 ## 📫 Connect with Me  
 
-- 📍 **Location:** Lucknow, India  
+- 📍 **Location:** India  
 - ✉️ **Email:** vermashailja018@gmail.com  
 - 💼 **LinkedIn:** [linkedin.com/in/shailjaverma18](https://linkedin.com/in/shailjaverma18)  
 - 🐙 **GitHub:** [github.com/ShailjaVerma18](https://github.com/ShailjaVerma18)  
