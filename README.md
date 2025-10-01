@@ -4,8 +4,7 @@
 *"Amateurs sit and wait for inspiration, the rest of us just get up and go to work."* — Stephen King
 
 🎯 Passionate about transforming **raw data into actionable insights**.  
-📊 Skilled in **Python, SQL, Power BI, and Machine Learning** with hands-on experience in real-world projects.  
-📈 Currently exploring **Big Data Tools & Advanced Analytics** to strengthen my expertise.  
+📊 Skilled in **Python, SQL, Power BI, and Machine Learning** with hands-on experience in real-world projects. 
 
 ---
 
