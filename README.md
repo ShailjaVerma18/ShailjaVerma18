@@ -14,7 +14,6 @@
 - 📊 I love **transforming raw data into actionable insights**  
 - 🤝 Open to **collaborating on data-driven projects** or ML-based open-source work  
 - 💬 Ask me about **Data Analysis, Visualization, and Machine Learning projects**  
-- ☕ Fun fact: My code works better after coffee!  
 
 ---
 
